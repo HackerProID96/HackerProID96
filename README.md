@@ -26,7 +26,7 @@
 <br />
 
 I'm is HackerProID96, i'm Beginner Hacker
-- ☇ i'm working JavaScript, Python, Termux
+- ☇ i'm working JavaScript, Python, HTML, Termux
 - Join My **[Discord](https://discord.gg/bQckjWU7xq)**
 - 📫 Reach me at **[hackerproid96@gmail.com](mailto: hackerproid96@gmail.com)**
 <br />
@@ -40,7 +40,7 @@ I'm is HackerProID96, i'm Beginner Hacker
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-68a063?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-68a063?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Termux" src="https://img.shields.io/badge/-Termux-68a063?style=flat-square&logo=Termux&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-68a063?style=flat-square&logo=HTML&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
   </p>
   </details>
