@@ -1,7 +1,7 @@
 ## Hi there, I'm HackerProID96! 👋
 
 
-<img src=https://media.discordapp.net/attachments/850563339528830996/860152689068081162/Screenshot_2021-07-01-20-39-33-904.jpeg>
+<img src=https://media.discordapp.net/attachments/890546209952006157/890784352068309062/Screenshot_2021-09-24-09-18-51-70_572064f74bd5f9fa804b05334aa4f912.jpg>
 
 
 <a href="https://discord.gg/bQckjWU7xq">
@@ -10,7 +10,7 @@
  <a href="https://github.com/HackerProID96">
   <img align="left" alt="HackerProID96 Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
- <a href="https://youtube.com/channel/">
+ <a href="https://youtube.com/channel/UCMU8xu7DQn3mIkIMLaZMa_Q">
   <img align="left" alt="HackerProID96 Official Youtube" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -49,7 +49,7 @@ I'm is HackerProID96, i'm Beginner Hacker
 
 ![HackerProID96 github stats](https://github-readme-stats.vercel.app/api?username=HackerProID96&show_icons=true&theme=tokyonight)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerProID96&show_icons=true&theme=tokyonight)](https://github.com/badriian24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerProID96&show_icons=true&theme=tokyonight)](https://HackerProID96)
 </details>
 
 ## 
@@ -60,7 +60,7 @@ I'm is HackerProID96, i'm Beginner Hacker
 
 - [HackerProID96 Website]()
 
-- [HackerProID96 YouTube](https://youtube.com/channel/)
+- [HackerProID96 YouTube](https://youtube.com/channel/UCMU8xu7DQn3mIkIMLaZMa_Q)
 #
 Thanks For Read Me And Don't Forget To Follow Me 👋
 #
