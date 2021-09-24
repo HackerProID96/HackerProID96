@@ -39,8 +39,7 @@ I'm is HackerProID96, i'm Beginner Hacker
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-68a063?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-68a063?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-68a063?style=flat-square&logo=HTML&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ff8438?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
   </p>
   </details>
